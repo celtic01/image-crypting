@@ -8,3 +8,9 @@ This project is a POC for a college project, presenting steganography for hiding
 ### run locally
 `npm run dev`
 
+### demo
+<img src="./src/assets/convert-img.png"/>
+
+
+<img src="./src/assets/convert-text.png"/>
+
